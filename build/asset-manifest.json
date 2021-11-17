@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/static/js/main.d1d9a91a.chunk.js",
+    "main.js.map": "/static/js/main.d1d9a91a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bbf0316e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bbf0316e.js.map",
+    "static/css/2.4659568d.chunk.css": "/static/css/2.4659568d.chunk.css",
+    "static/js/2.7966347e.chunk.js": "/static/js/2.7966347e.chunk.js",
+    "static/js/2.7966347e.chunk.js.map": "/static/js/2.7966347e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4659568d.chunk.css.map": "/static/css/2.4659568d.chunk.css.map",
+    "static/js/2.7966347e.chunk.js.LICENSE.txt": "/static/js/2.7966347e.chunk.js.LICENSE.txt",
+    "static/media/Emblem_Bronze.ad96bf19.png": "/static/media/Emblem_Bronze.ad96bf19.png",
+    "static/media/Emblem_Challenger.bcddbed6.png": "/static/media/Emblem_Challenger.bcddbed6.png",
+    "static/media/Emblem_Diamond.8249cef1.png": "/static/media/Emblem_Diamond.8249cef1.png",
+    "static/media/Emblem_Gold.617f139e.png": "/static/media/Emblem_Gold.617f139e.png",
+    "static/media/Emblem_Grandmaster.9a64d726.png": "/static/media/Emblem_Grandmaster.9a64d726.png",
+    "static/media/Emblem_Iron.9c3d63ce.png": "/static/media/Emblem_Iron.9c3d63ce.png",
+    "static/media/Emblem_Master.6cebbe60.png": "/static/media/Emblem_Master.6cebbe60.png",
+    "static/media/Emblem_Platinum.26c61fd5.png": "/static/media/Emblem_Platinum.26c61fd5.png",
+    "static/media/Emblem_Silver.ba092276.png": "/static/media/Emblem_Silver.ba092276.png",
+    "static/media/logo.fd73b4e3.png": "/static/media/logo.fd73b4e3.png",
+    "static/media/lol.5534e432.png": "/static/media/lol.5534e432.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbf0316e.js",
+    "static/css/2.4659568d.chunk.css",
+    "static/js/2.7966347e.chunk.js",
+    "static/js/main.d1d9a91a.chunk.js"
+  ]
+}
